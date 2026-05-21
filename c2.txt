@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 c2 again
+=======
+c2
+>>>>>>> first
+c2 aggain aggain
